@@ -1,6 +1,6 @@
 #!/bin/bash
 #
-# trimcron: do file system trimming as a cron job
+# trimssd: do file system trimming as a cron job
 #
 # read the mount points from /etc/trimcron.conf and run
 # fstrim on them
